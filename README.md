@@ -388,15 +388,7 @@ Worked on full-stack web development under mentor-guided development and code-re
 
 ---
 
-# GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mayank1705-web&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7" width="90%" />
-
-</div>
-
----
 
 # Contribution Activity
 
